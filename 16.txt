@@ -1,0 +1,10 @@
+public class {
+    
+    public static void main(String[] args) {
+        
+    Nu = x1 
+    x2 = x1 == numeros romanos 
+     System.out.println("Números:" + x2);
+     
+    }
+}
